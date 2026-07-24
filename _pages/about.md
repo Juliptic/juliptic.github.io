@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-howdy, 
+howdy,
 
 this is my personal website. You can find my blog posts about math and other writings.
