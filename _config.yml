@@ -233,6 +233,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  mathposts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -255,6 +258,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _mathposts
+  - scope:
+      path: ""
+      type: mathposts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _teaching
   - scope:
       path: ""
