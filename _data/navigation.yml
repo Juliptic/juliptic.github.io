@@ -22,7 +22,10 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+
+  - title: "Math Posts"
+    url: /year-archive_copy/
+
   #- title: "CV"
   #  url: /cv/
     
