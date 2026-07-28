@@ -1,7 +1,7 @@
 ---
 title: 'What do I do'
 date: 2026-07-23
-permalink: /posts/2026/07/blog-post-1/
+permalink: /posts/2026/07/what_do_I_do/
 tags:
   - cool posts
   - category1
