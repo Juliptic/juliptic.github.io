@@ -17,6 +17,6 @@ We will prove that this definition is well defined. First note that if $$ I_{\ma
 
 Last we must check our definition is well defined for primes $$\mathfrak{q}$$ over $$\mathfrak{p}$$. The idea is that since all primes above $$\mathfrak{p}$$ are conjugate, then we have that 
 
-% We get conjugate inertia grops with the conjugate element giving an isomorphism, which won't change the characteristic polynomial.
+#We get conjugate inertia grops with the conjugate element giving an isomorphism, #which won't change the characteristic polynomial.
 
 ------
