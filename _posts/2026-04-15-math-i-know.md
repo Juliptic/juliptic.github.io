@@ -20,4 +20,5 @@ Algebraic Number Theory
 Differeintial Geometry
 
 Now that I look at it this doesn't look like that much. I think I have to believe that because I do genuinely believe anyone could've gotten to where I've gotten to and comprehend this material. I also think most people could do it faster but idk.
+
 ------
