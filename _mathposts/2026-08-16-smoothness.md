@@ -61,4 +61,20 @@ Now we get to the question of how to check smoothness locally. Because we are wo
 
 We also need to check the map is flat. (Write down how to do that)
 
+We can check flatness of a map $$f\colon B \to A$$ by checking for all primes of A by checking that $$B_{f^{-1}(p)}\to A_p$$ is flat. (This should follow because we can flatness locally, and in fact only at maximal ideals)
+
+ Thus we reduce to the local story.
+
+We need to check that for $$f\colon B \to A$$ a map of local rings, that A is flat over B, which is given to us by the local crietera for flatness which says for some $$t\in B$$, A is flat iff t is non a zero divisor on A and $$A/tA$$ is flat over $$B/t$$.
+
+So we can keep quotienting by elements of the maximal ideal until we hit a field, where then all modules are flat. Thus the criteria basically reduces to a check some elements aren't zero divisors.
+
+As an exmaple, if we have the ring map $$\mathbb{Z}\to\mathbb{Z}[x,y]/(y^2-x^3-x-13)=b$$ then to check this is flat we check that for all points (it seems to me the criteria for a flat morphism and the criteria for checking flatness locally slightly differ)
+
+One criteria should just be localizing B at all primes of A, and the other should say we only need to localize at the primes of A which arise as preimages of primes of B. (Think about why primes of A which don't map to primes of B don't matter)
+
+Now our criteria should say that B is flat if p is not a zero divisor (because the quoitent is immediately flat over a field).
+
+(This makes me think basically everything about flatness really is just torsion free, the easiest example of torsion free but not flat is an ideal, so won't arise in our setup where we have a map of rings). 
+
 ------
