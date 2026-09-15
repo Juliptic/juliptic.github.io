@@ -3,7 +3,8 @@ title: 'Notions of smoothness'
 date: 2026-8-16
 permalink: /posts/2026/08/smoothness/
 tags:
-  - algebraic geometry
+  - Algebraic Geometry
+  - Number Thoery
 ---
 
 I am writing down the basic theory of smoothness to have an easy refrence. This will mostly just be a summary of vakil chapter 13, but mostly just the results.

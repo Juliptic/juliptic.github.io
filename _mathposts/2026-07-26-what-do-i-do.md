@@ -3,9 +3,9 @@ title: 'What do I do'
 date: 2026-07-26
 permalink: /posts/2026/07/what_do_I_do/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Automorphic Forms
+  - Shimura Varieties
+  - Cohomology Classes
 ---
 
 I will attempt to explain what I am currently working on at varying levels of detail.

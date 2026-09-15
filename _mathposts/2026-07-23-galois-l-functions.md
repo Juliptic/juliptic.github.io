@@ -3,9 +3,9 @@ title: 'L Functions associated to galois representations'
 date: 2026-07-23
 permalink: /posts/2026/07/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Galois Representations
+  - L Functions
+  - Number Theory
 ---
 
 We review how to construct an L-function from a representation $$ \rho\colon Gal(\bar{K}/K) \to GL(V) $$
