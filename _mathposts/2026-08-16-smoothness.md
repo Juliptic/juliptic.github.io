@@ -1,6 +1,7 @@
 ---
 title: 'Notions of smoothness'
 date: 2026-8-16
+author_profile: false
 permalink: /posts/2026/08/smoothness/
 tags:
   - Algebraic Geometry

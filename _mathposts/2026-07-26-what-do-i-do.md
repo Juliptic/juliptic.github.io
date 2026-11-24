@@ -1,6 +1,7 @@
 ---
 title: 'What do I do'
 date: 2026-07-26
+author_profile: false
 permalink: /posts/2026/07/what_do_I_do/
 tags:
   - Automorphic Forms

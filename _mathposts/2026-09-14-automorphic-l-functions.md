@@ -1,6 +1,7 @@
 ---
 title: 'L Functions associated to automorphic representations'
 date: 2026-09-14
+author_profile: false
 permalink: /posts/2026/09/automorphic/
 tags:
   - Automorphic Representations

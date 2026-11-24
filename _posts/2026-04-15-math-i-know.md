@@ -1,6 +1,7 @@
 ---
 title: '4-15-26 - What do I know'
 date: 2026-04-15
+author_profile: false
 permalink: /posts/2026/04/known/
 tags:
 ---

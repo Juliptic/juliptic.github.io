@@ -1,6 +1,7 @@
 ---
 title: 'L Functions associated to galois representations'
 date: 2026-07-23
+author_profile: false
 permalink: /posts/2026/07/blog-post-1/
 tags:
   - Galois Representations

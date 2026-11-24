@@ -1,6 +1,7 @@
 ---
 title: 'Fourier Coefficients of Modular Forms'
 date: 2026-11-23
+author_profile: false
 permalink: /posts/2026/11/fourier-coefficients/
 tags:
   - Number Theory
