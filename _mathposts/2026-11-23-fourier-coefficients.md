@@ -10,9 +10,9 @@ tags:
 When you first learn about modular forms, from the jump one immediately decomposes them with a fourier expansion. 
 
 >Definition: A modular form of weight $$k$$ level $$\Gamma=SL_2(\mathbb{Z})$$ is a function $$\mathbb{H}\to \mathbb{C}$$ which is 
->1(Modular with Respect to $$\Gamma$$): $$\forall \gamma=\begin{bmatrix}a&b\\c&d\end{bmatriz} \in \Gamma$$, $$f(\gamma z)=(cz+d)^{k}f(z)$$
->2: Holomorphic on $$\mathbb{H}$$
->3(Holomorphic at $$\infty$$): For $$q=e^{2\pi i z} $$ we have a fourier expansion as $$f(z)=\sum_{n\in \mathbb{Z} a_n q^n$$ and that $$a_n=0$$ if $$n<0$$
+>1(Modular with Respect to $$\Gamma$$): $$\forall \gamma=\begin{bmatrix}a&b\\c&d\end{bmatrix} \in \Gamma$$, $$f(\gamma z)=(cz+d)^{k}f(z)$$\
+>2: Holomorphic on $$\mathbb{H}$$\
+>3(Holomorphic at $$\infty$$): For $$q=e^{2\pi i z} $$ we have a fourier expansion as $$f(z)=\sum_{n\in \mathbb{Z} a_n q^n$$ and that $$a_n=0$$ if $$n<0$$\
 
 This definition is only for modular forms with respect to the full sugroup $$\Gamma=SL_2(\mathbb{Z})$$. 
 
