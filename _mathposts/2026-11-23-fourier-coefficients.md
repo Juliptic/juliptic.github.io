@@ -27,7 +27,7 @@ In order to define modular forms with respect to congruence subgroups, it is fru
 
 Looking forward, we want our modular forms to be function on $$\Gamma mod \mathbb{P}^1(\mathbb{C})$$ and our boundary will end up being $$\Gamma mod \mathbb{P}^1(\mathbb{Q})$$ which will be finite. A representative of each orbit $$\alpha_i$$ is called a cusp. Since  $$SL_2{\mathbb{Z}}$$ acts transitively we can find some $$\rho$$ such that $$\rho \alpha_i=[0,1]=\infty$$. 
 
-Thus $$f|_{\rho^{-1}}$$ is modular with respect to $$\rho\Gamma\rho^{-1}$$ which is a cogruence subgroup containing some $$\begin{bmatrix}1&M \\ 0&1 \end{bmatrix}$$ thus we get periods of size $$M$$ and a fourier expansion $$f(z)=\sum_{n\in \mathbb{Z}} a_n e^{2\pi i nz/M}$$. We define a modular for to be holomorphic at a cusp if the fourier coefficients in this expansion vanish for $$n<0$$.
+Thus  is modular with respect to $$\rho\Gamma\rho^{-1}$$ which is a cogruence subgroup containing some $$\begin{bmatrix}1&M \\ 0&1 \end{bmatrix}$$ thus we get periods of size $$M$$ and a fourier expansion $$f(z)=\sum_{n\in \mathbb{Z}} a_n e^{2\pi i nz/M}$$. We define a modular for to be holomorphic at a cusp if the fourier coefficients in this expansion vanish for $$n<0$$.
 
 Remark: The same definitions work for $$\Gamma$$ a subgroup of $$SL_2(\mathbb{R})$$ which has finite volume and with cusps being representatives of $$\Gamma \ \mathbb{P}^1(\mathbb{R})$$. The action described on the space of holomorphic functions by $$GL_2(\mathbb{Q})^+$$ extends to $$Gl_2(\mathbb{R})^+$$. 
 
